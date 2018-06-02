@@ -1,0 +1,15 @@
+## Emacs temporary files
+*~
+#~
+
+## C++ compilation results
+**/*.o
+
+## Generated noise samples
+**/*.noise
+
+## Ignore build vignettes
+inst/doc/*
+
+## File containing the output plots of the R analysis script
+Rplots.pdf
