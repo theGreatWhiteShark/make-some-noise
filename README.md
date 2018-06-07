@@ -1,3 +1,7 @@
+I'm leaving this sinking ship. If you like this project, checked out the maintained version on [GitLab.com](https://gitlab.com/theGreatWhiteShark/make-some-noise).
+
+---
+
 A some project exploring different algorithms for generating colored
 noise (especially pinkish one) in C++.
 
